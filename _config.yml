@@ -1,0 +1,22 @@
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            adamjames dot github dot io
+tagline:          '"Still a better TLD than .blog"'
+description:      'Words and other things written by <a href="https://twitter.com/mrwizrd">@mrwizrd</a>. Built with <a href="http://jekyllrb.com/">Jekyll</a> using <a href="https://twitter.com/mdo">@mdo</a>''s excellent <a href="http://hyde.getpoole.com/">Hyde</a> theme.'
+url:              http://adamjames.github.io
+baseurl:          /blog/
+
+author:
+  name:           'Adam James'
+  url:            https://twitter.com/mrwizrd
+
+paginate:         1
+
+# Custom vars
+version:          2.0.0
+
+github:
+  repo:           https://github.com/adamjames/adamjames.github.io
