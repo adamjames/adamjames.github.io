@@ -1,22 +1,28 @@
+# Dependencies
+markdown:            redcarpet
+highlighter:         pygments
+
 # Permalinks
-permalink:        pretty
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:            adamjames dot github dot io
-tagline:          '"Still a better TLD than .blog"'
-description:      'Words and other things written by <a href="https://twitter.com/mrwizrd">@mrwizrd</a>. Built with <a href="http://jekyllrb.com/">Jekyll</a> using <a href="https://twitter.com/mdo">@mdo</a>''s excellent <a href="http://hyde.getpoole.com/">Hyde</a> theme.'
-url:              http://adamjames.github.io
-baseurl:          http://adamjames.github.io
+title:               adamjames dot github dot io
+tagline:             '"Still a better TLD than .blog"'
+description:         'Words and other things written by <a href="https://twitter.com/mrwizrd">@mrwizrd</a>. Built with <a href="http://jekyllrb.com/">Jekyll</a> using <a href="https://twitter.com/mdo">@mdo</a>''s excellent <a href="http://lanyon.getpoole.com/">Lanyon</a> theme.'
+url:                 http://adamjames.github.io
+baseurl:             /
+paginate:            3
 
+# About/contact
 author:
-  name:           'Adam James'
-  url:            https://twitter.com/mrwizrd
-
-paginate:         1
+  name:              Adam Lee james
+  url:               https://keybase.io/mrwizrd
+  email:             adam@adamjames.me
 
 # Custom vars
-version:          2.0.0
-
+version:             1.0.0
 github:
-  repo:           https://github.com/adamjames/adamjames.github.io
+  repo:              https://github.com/adamjames/adamjames.github.io
