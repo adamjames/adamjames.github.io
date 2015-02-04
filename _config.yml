@@ -12,7 +12,7 @@ relative_permalinks: true
 title:               adamjames dot github dot io
 tagline:             '"Still a better TLD than .blog"'
 description:         'Words and other things written by <a href="https://twitter.com/mrwizrd">@mrwizrd</a>. Built with <a href="http://jekyllrb.com/">Jekyll</a> using <a href="https://twitter.com/mdo">@mdo</a>''s excellent <a href="http://lanyon.getpoole.com/">Lanyon</a> theme.'
-url:                 http://adamjames.github.io
+url:                 http://adamjames.github.io/
 baseurl:             /
 paginate:            3
 
