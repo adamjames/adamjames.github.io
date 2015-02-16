@@ -6,13 +6,11 @@ tags:
 - aroundtheweb
 ---
 
-Interesting links and things I've seen and read over the last week (more or less):
-
-I'll post these occasionally as I have time to put them together.
+Here are some Interesting links and things I've seen and read over the last week (more or less). I'll make an effort to keep posting something like this every so often assuming nothing else takes its place.
 
 * [Crunchbang Linux][crunchbanglinux] closes its' doors. Luckily there's still [Archbang][archbanglinux]. Thanks for the awesome distro [@corenominal][core-nominal], best of luck to you in your future endeavours!
 * [GnuPG][gnupg-donations] was running out of money, but the community rallied behind the project, with individual contributions raising [over €120,000][gnupg-donations-after], not including large donations from the Linux Foundation, payments processor Stripe and Facebook.
-* The courts ruled that British intelligence agency GHCQ's "full take" (i.e. metadata and *all* traffic) collection of all data transiting the UK was unlawful for seven years.
+* The courts ruled that British intelligence agency GHCQ's "full take" (i.e. metadata and *all* traffic) collection of all data transiting the UK was [unlawful for seven years][mass-surveillance-unlawful].
 * The Electronic Frontier Foundation has [won its four-year Freedom of Information Act lawsuit][eff-legal-basis-for-spying] over secret legal interpretations of a controversial section of the Patriot Act, including legal analysis of law enforcement and intelligence agency access to census records.
 * The U.S. Department of Justice apparently thinks 80% of *traffic* on the [Tor network][doj-tor-traffic] is child pornography. I don't even know what to think.
 * [Radim Řehůřek][radim] takes us on a guided introduction to [data science in Python][python-data-science].
@@ -34,11 +32,7 @@ I'll post these occasionally as I have time to put them together.
 * Does your team respect the build? [They will][siren-of-shame].
 * [NimbleText][nimble] is a great little editor with some nicely integrated expression evaluation. It's exceptionally good at certain tasks, like writing schema modification scripts for databases.
 
-More next week as time allows :)
-
-N.B: In the interests of full disclosure: I work for Oracle. This is a personal blog, but I must abide by Oracle's Social Media Participation Policy. I have my own, independent thoughts and opinions on Oracle vs. Google; which I will not be publishing here for the avoidance of any confusion. The opinions expressed in the ZDNet article are not necessarily representative of my own. I am not authorised to speak on behalf of Oracle. All opinions expressed are my own.
-
-Now, back to our regularly-scheduled programming.
+N.B: The views expressed here are my own and do not necessarily reflect the views of Oracle Corporation. I will not be commenting on Oracle v. Google myself, in accordance with Oracle's Social Media Participation Policy.
 
 [facebook]: https://medium.com/@ericflo/facebook-just-taught-us-all-how-to-build-websites-51f1e7e996f2
 [extroverts]: http://www.mattblodgett.com/2015/02/the-open-plan-office-and-extrovert-ideal.html
