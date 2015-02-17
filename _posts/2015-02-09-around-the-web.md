@@ -6,7 +6,7 @@ tags:
 - aroundtheweb
 ---
 
-Here are some Interesting links and things I've seen and read over the last week (more or less). I'll make an effort to keep posting something like this every so often assuming nothing else takes its place.
+Here are some interesting links and things I've seen and read over the last week (more or less). I'll make an effort to keep posting something like this every so often assuming nothing else takes its place.
 
 * [Crunchbang Linux][crunchbanglinux] closes its' doors. Luckily there's still [Archbang][archbanglinux]. Thanks for the awesome distro [@corenominal][core-nominal], best of luck to you in your future endeavours!
 * [GnuPG][gnupg-donations] was running out of money, but the community rallied behind the project, with individual contributions raising [over €120,000][gnupg-donations-after], not including large donations from the Linux Foundation, payments processor Stripe and Facebook.
