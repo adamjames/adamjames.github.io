@@ -8,7 +8,6 @@ tags:
 
 I'm starting to realise just how much time I must spend online, reading things. This is starting to seem like a poor man's version of Google Reader, but at least it produces something a bit prettier than throwing it all into an actual database somewhere.
 
-
 * Jacques Mattheij's blog really is fantastic. He writes great posts that fuse technology, business and career management (among other things) perfectly. Try ["Please Do Not Be a One Trick Pony"][one-trick-pony], ["All Programming Is Bookkeeping"][programming-bookkeeping] and ["All the Technology but None of the Love"][all-tech-no-love] on for size.
 * An introduction to [Object-oriented JavaScript for C# developers][oo-js].
 * How to [flip the script on technical recruiters][flip-script] and change from a pull to a push model.
