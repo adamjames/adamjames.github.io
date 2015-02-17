@@ -333,10 +333,6 @@ tbody tr:nth-child(odd) th {
   margin-bottom: 4em;
 }
 
-.post-condensed {
-  margin-bottom: 1em;
-}
-
 /* Blog post or page title */
 .page-title,
 .post-title,
