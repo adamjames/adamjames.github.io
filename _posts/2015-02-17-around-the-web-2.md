@@ -28,7 +28,7 @@ I'm starting to realise just how much time I must spend online, reading things. 
 [yitang-zhang-wiki]: https://en.wikipedia.org/wiki/Yitang_Zhang
 [yitang-zhang-article]: http://www.newyorker.com/magazine/2015/02/02/pursuit-beauty
 [yitang-zhang-paste]: http://pastebin.com/Xtm3f64E
-[bound-gaps-problem]: https://en.wikipedia.org/wiki/Yitang_Zhang#Research
+[bound-gaps]: https://en.wikipedia.org/wiki/Yitang_Zhang#Research
 [avoid-db-writes-with-hmac]: https://neosmart.net/blog/2015/using-hmac-signatures-to-avoid-database-writes/?PageSpeed=noscript
 [hmac-wiki]: https://en.wikipedia.org/wiki/Hash-based_message_authentication_code
 [hnews-avoid-db-with-hmac]: https://news.ycombinator.com/item?id=9053830
