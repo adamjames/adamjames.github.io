@@ -1,5 +1,5 @@
 ---
-title: Around the Web - #2
+title: Around the Web - 2
 description: Interesting links and content.
 layout: post
 tags:
