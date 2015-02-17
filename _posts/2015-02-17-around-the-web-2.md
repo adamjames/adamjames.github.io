@@ -19,20 +19,20 @@ I'm starting to realise just how much time I must spend online, reading things. 
 * Github user [peenuty][github-peenuty] tries to calculate [the carbon footprint of mining Bitcoin][carbon-bitcoin].
 
 [github-peenuty]: https://github.com/peenuty
-[carbon-bitcoin]: https://github.com/peenuty/BitcoinEmissions]
-[glacier-backups]: http://spin.atomicobject.com/2015/02/15/cheap-long-term-backup-amazon-glacier-storage/]
-[flip-script]: http://www.npnd.com/blog/2015/2/4/from-pull-to-push-flipping-the-script-on-technical-recruiters]
-[one-trick-pony]: http://jacquesmattheij.com/please-do-not-be-a-one-trick-pony]
-[programming-bookeeping]: http://jacquesmattheij.com/all-programming-is-bookkeeping]
-[all-tech-no-love]: http://jacquesmattheij.com/all-of-the-tech-but-none-of-the-love]
-[yitang-zhang-wiki]: https://en.wikipedia.org/wiki/Yitang_Zhang]
-[yitang-zhang-article]: http://www.newyorker.com/magazine/2015/02/02/pursuit-beauty]
-[yitang-zhang-paste]: http://pastebin.com/Xtm3f64E]
-[bound-gaps-problem]: https://en.wikipedia.org/wiki/Yitang_Zhang#Research]
-[avoid-db-writes-with-hmac]: https://neosmart.net/blog/2015/using-hmac-signatures-to-avoid-database-writes/?PageSpeed=noscript]
-[hmac-wiki]: https://en.wikipedia.org/wiki/Hash-based_message_authentication_code]
-[hnews-avoid-db-with-hmac]: https://news.ycombinator.com/item?id=9053830]
-[bunny-hopping]: http://flafla2.github.io/2015/02/14/bunnyhop.html]
-[jon-g]: http://news.mlh.io/author/jonmarkgo]
-[hackathons]: http://news.mlh.io/second-hackathon-changed-my-life-02-12-2015]
-[oo-js]: http://www.barbarianmeetscoding.com/blog/2014/08/20/object-oriented-javascript-for-c-sharp-developers/]
+[carbon-bitcoin]: https://github.com/peenuty/BitcoinEmissions
+[glacier-backups]: http://spin.atomicobject.com/2015/02/15/cheap-long-term-backup-amazon-glacier-storage/
+[flip-script]: http://www.npnd.com/blog/2015/2/4/from-pull-to-push-flipping-the-script-on-technical-recruiters
+[one-trick-pony]: http://jacquesmattheij.com/please-do-not-be-a-one-trick-pony
+[programming-bookeeping]: http://jacquesmattheij.com/all-programming-is-bookkeeping
+[all-tech-no-love]: http://jacquesmattheij.com/all-of-the-tech-but-none-of-the-love
+[yitang-zhang-wiki]: https://en.wikipedia.org/wiki/Yitang_Zhang
+[yitang-zhang-article]: http://www.newyorker.com/magazine/2015/02/02/pursuit-beauty
+[yitang-zhang-paste]: http://pastebin.com/Xtm3f64E
+[bound-gaps-problem]: https://en.wikipedia.org/wiki/Yitang_Zhang#Research
+[avoid-db-writes-with-hmac]: https://neosmart.net/blog/2015/using-hmac-signatures-to-avoid-database-writes/?PageSpeed=noscript
+[hmac-wiki]: https://en.wikipedia.org/wiki/Hash-based_message_authentication_code
+[hnews-avoid-db-with-hmac]: https://news.ycombinator.com/item?id=9053830
+[bunny-hopping]: http://flafla2.github.io/2015/02/14/bunnyhop.html
+[jon-g]: http://news.mlh.io/author/jonmarkgo
+[hackathons]: http://news.mlh.io/second-hackathon-changed-my-life-02-12-2015
+[oo-js]: http://www.barbarianmeetscoding.com/blog/2014/08/20/object-oriented-javascript-for-c-sharp-developers/
