@@ -23,7 +23,7 @@ I'm starting to realise just how much time I must spend online, reading things. 
 [glacier-backups]: http://spin.atomicobject.com/2015/02/15/cheap-long-term-backup-amazon-glacier-storage/
 [flip-script]: http://www.npnd.com/blog/2015/2/4/from-pull-to-push-flipping-the-script-on-technical-recruiters
 [one-trick-pony]: http://jacquesmattheij.com/please-do-not-be-a-one-trick-pony
-[programming-bookeeping]: http://jacquesmattheij.com/all-programming-is-bookkeeping
+[programming-bookkeeping]: http://jacquesmattheij.com/all-programming-is-bookkeeping
 [all-tech-no-love]: http://jacquesmattheij.com/all-of-the-tech-but-none-of-the-love
 [yitang-zhang-wiki]: https://en.wikipedia.org/wiki/Yitang_Zhang
 [yitang-zhang-article]: http://www.newyorker.com/magazine/2015/02/02/pursuit-beauty
