@@ -17,8 +17,7 @@ I was planning on writing a plugin to fix this, but thankfully I found a satisfa
 
 ```
 /set irc.look.smart_filter on
-```
-```
+
 /filter add irc_smart * irc_smart_filter *
 ```
 
