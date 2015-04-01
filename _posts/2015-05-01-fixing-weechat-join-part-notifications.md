@@ -7,7 +7,7 @@ tags:
 - python
 ---
 
-[WeeChat][weechat] is a brilliant console-based IRC client. It's like a more modern [irssi][irssi], configured with a nice interface and some great features "out of the box". It's also pretty [configurable][weechat-screenshots ]:
+[WeeChat][weechat] is a brilliant console-based IRC client. It's like a more modern [irssi][irssi], configured with a nice interface and some great features "out of the box". It's also pretty [configurable][weechat-screenshots]:
 <a href="{{ site.postimagesurl }}weechat-screenshots.png"><img src="{{ site.postimagesurl }}weechat-screenshots.png" width="800" height="618"></img></a>
 
 One pet niggle of mine has always been WeeChat's handling of JOIN/PART messages. If you're in a large/busy channel, it can be distracting to constantly see JOIN/PART messages from users who are not actively talking - but switching them off entirely removes some useful conversational context.
