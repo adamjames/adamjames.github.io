@@ -11,7 +11,7 @@ relative_permalinks: true
 # Setup
 title:               adamjames dot github dot io
 tagline:             '"Still a better TLD than .blog"'
-description:         'Words and other things written by <a href="https://twitter.com/mrwizrd">@mrwizrd</a>. Built with <a href="http://jekyllrb.com/">Jekyll</a> using <a href="https://twitter.com/mdo">@mdo</a>''s excellent <a href="http://lanyon.getpoole.com/">Lanyon</a> theme.'
+description:         'Words and other things written by <a href="https://twitter.com/mrwizrd">@mrwizrd</a>. Built with <a href="http://jekyllrb.com/">Jekyll</a> using <a href="https://twitter.com/mdo">@mdo</a>''s excellent <a href="http://lanyon.getpoole.com/">Lanyon</a> theme.<br/>Find more at <a href="http://www.adamjames.me">adamjames.me</a>.'
 url:                 http://adamjames.github.io/
 postimagesurl:       http://adamjames.github.io/public/postimages/
 baseurl:             /
