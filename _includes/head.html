@@ -20,8 +20,8 @@
   <link rel="stylesheet" href="{{ site.baseurl }}public/css/lanyon.css">
   <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400">
   
-  <!-- Toggleable Custom CSS -->
-  {% if site.use_custom_css == null or site.use_custom_css == "true" %}
+  <!-- Toggleable Custom CSS appears here if enabled -->
+  {% if site.use_custom_css != null and site.use_custom_css == "true" %}
   <link rel="stylesheet" href="{{ site.baseurl }}public/css/customisations.css">
   {% endif %}
 
