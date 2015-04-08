@@ -1,0 +1,15 @@
+/* Make the global font slightly smaller. */
+html {
+  font-size: 14px;
+  line-height: 1.4;
+}
+@media (min-width: 38em) {
+  html {
+    font-size: 18px;
+  }
+}
+
+/* Remove the 1rem margin at the bottom of <img> tags */
+img {
+  margin: 0 0 0;
+}
