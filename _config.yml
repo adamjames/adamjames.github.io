@@ -13,7 +13,7 @@ title:               adamjames dot github dot io
 tagline:             '"Still a better TLD than .blog"'
 description_top:     'Words written by <a href="https://twitter.com/mrwizrd">@mrwizrd</a>. Built with <a href="http://jekyllrb.com/">Jekyll</a> using <a href="https://twitter.com/mdo">@mdo</a>''s excellent <a href="http://lanyon.getpoole.com/">Lanyon</a> theme.'
 description_bottom:  'Looking for something else? You should check out my website at <a href="http://www.adamjames.me">adamjames.me</a>!'
-use_custom_css:      false
+use_custom_css:      true
 url:                 http://adamjames.github.io/
 postimagesurl:       http://adamjames.github.io/public/postimages/
 baseurl:             /
