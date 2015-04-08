@@ -24,9 +24,13 @@
   {% if site.use_custom_css != null %}
       {% if site.use_custom_css == "true" %}
         <link rel="stylesheet" href="{{ site.baseurl }}public/css/customisations.css">
+      {% else %}
+        <!-- Custom CSS is switched off - use_custom_css is not set to "true". -->
       {% endif %}
+  {% else %}
+    <!-- use_custom_css is not set, so it hasn't been included. -->
   {% endif %}
-  
+
   <!-- Icons -->
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.baseurl }}public/apple-touch-icon-precomposed.png">
   <link rel="shortcut icon" href="{{ site.baseurl }}public/favicon.ico">
