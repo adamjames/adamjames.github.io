@@ -56,31 +56,25 @@ sudo nano /etc/resolver/dev
 {% endhighlight %}
 Enter `nameserver 127.0.0.1`, save and close the file. This tells OS X to use `127.0.0.1` as the nameserver for all domains under that TLD, instead of searching the public DNS servers for it. Now test that it works:
 {% highlight console %}
-# Make sure you haven't broken your DNS.
+# Make sure DNS still works.
 ping -c 1 www.google.com
 # Check that .dev names work
 ping -c 1 this.is.a.test.dev
 ping -c 1 iam.the.walrus.dev
 {% endhighlight %}
-
 Now we need to configure Apache to serve up domains we want to use for development. The instructions below are for OS X 10.7 onwards.
-
 Start apache and check that it works with `sudo apachectl start`. If you don't get any errors, browse to localhost. You should see an "It works!" screen. Open `/private/etc/apache2/httpd.conf`.
-
 1. Activate mod_vhost_alias around line 160: `#LoadModule vhost_alias_module libexec/apache2/mod_vhost_alias.so`.
 2. On or around line 169, uncomment `#LoadModule php5_module libexec/apache2/libphp5.so` if you want to use PHP.
 3. Comment out (using #) or reconfigure the following section around line 220 to allow apache access to the filesystem folder you want to store sites in:
-
 ```
 <Directory />
     AllowOverride none
     Require all denied
 </Directory> 
 ```
-
 4. Around line 500, enable vhosts: `#Include /private/etc/apache2/extra/httpd-vhosts.conf`.
 5. Open `\private\etc\apache2\extra\httpd-vhosts.conf` and enter the following, replacing `/Users/adam/Sites` with your desired root folder:
-
 ```
 <Directory "/Users/adam/Sites">
   Options Indexes MultiViews FollowSymLinks
@@ -89,7 +83,7 @@ Start apache and check that it works with `sudo apachectl start`. If you don't g
   Allow from all
 </Directory>
 
-# You may be able to remove wwwroot if you just want files in .../Sites/<sitename> - I didn't test that.
+# You may be able to remove wwwroot if you just want files in .../Sites/<sitename>.
 
 <Virtualhost *:80>
   VirtualDocumentRoot "/Users/adam/Sites/%1/wwwroot"
