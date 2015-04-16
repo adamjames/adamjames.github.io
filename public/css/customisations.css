@@ -15,6 +15,12 @@ img {
 }
 
 /* Use more of the page. */
-.container {
+.`container {
   max-width: 50rem;
+}
+
+/* Reduce wasted space for sidebar items.
+Also makes avatar a little bigger as a side-effect. */
+.sidebar-item {
+    padding: 0.7rem;
 }
