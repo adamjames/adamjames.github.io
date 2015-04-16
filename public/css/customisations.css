@@ -13,3 +13,8 @@ html {
 img {
   margin: 0 0 0;
 }
+
+/* Use more of the page. */
+container {
+  max-width: 50rem;
+}
