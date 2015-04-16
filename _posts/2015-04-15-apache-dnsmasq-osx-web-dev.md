@@ -23,7 +23,8 @@ sudo cp $(brew list dnsmasq | grep /homebrew.mxcl.dnsmasq.plist$) /Library/Launc
 # Start Dnsmasq automatically.
 sudo launchctl load /Library/LaunchDaemons/homebrew.mxcl.dnsmasq.plist
 {% endhighlight%}
-Now, edit `/usr/local/etc/dnsmasq.conf` to tell dnqmasq to answer any request for a `.dev` domain with the address `127.0.0.1`.
+Now, edit `/usr/local/etc/dnsmasq.conf` to tell dnqmasq to answer any request for a `.dev` domain with localhost:
+
 <br><img src="{{ site.postimagesurl }}dnsmasq-conf.png"></img><br>
 Restart dnsmasq to ensure it picks up the changes, then request a `.dev` domain with `dig` to check you get the answer you want:
 
