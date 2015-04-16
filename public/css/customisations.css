@@ -15,6 +15,6 @@ img {
 }
 
 /* Use more of the page. */
-container {
+.container {
   max-width: 50rem;
 }
