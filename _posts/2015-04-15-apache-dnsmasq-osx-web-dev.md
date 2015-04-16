@@ -80,6 +80,8 @@ Open `/private/etc/apache2/httpd.conf` and continue.
 </Directory> 
 ```
 
+And finally...
+
 4. Around line 500, enable vhosts: `#Include /private/etc/apache2/extra/httpd-vhosts.conf`.
 5. Open `\private\etc\apache2\extra\httpd-vhosts.conf` and enter the following, replacing `/Users/adam/Sites` with your desired root folder:
 
