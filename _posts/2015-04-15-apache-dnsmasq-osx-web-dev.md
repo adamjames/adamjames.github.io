@@ -69,7 +69,7 @@ Start apache and check that it works with `sudo apachectl start`. If you don't g
 
 Open `/private/etc/apache2/httpd.conf` and continue.
 
-1. Activate mod_vhost_alias around line 160: `#LoadModule vhost_alias_module libexec/apache2/mod_vhost_alias.so`
+1. Activate `mod_vhost_alias` around line 160: `#LoadModule vhost_alias_module libexec/apache2/mod_vhost_alias.so`
 2. On or around line 169, uncomment `#LoadModule php5_module libexec/apache2/libphp5.so` if you want to use PHP.
 3. Comment out (using #) or reconfigure the following section around line 220 to allow apache access to the filesystem folder you want to store sites in:
 
