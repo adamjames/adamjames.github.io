@@ -3,9 +3,11 @@ A Jekyll blog. Simple and functional.
 ## Author
 
 **Adam James**
-- <https://github.com/adamjames>
-- <https://twitter.com/mrwizrd>
+- <https://www.keybase.io/mrwizrd>
 
+## Disclaimer
+
+The views expressed are my own and do not necessarily reflect the views of current or past employers.
 
 ## License
 
