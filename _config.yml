@@ -18,7 +18,7 @@ url:                 https://adamjames.github.io/
 postimagesurl:       https://adamjames.github.io/public/postimages/
 baseurl:             /
 paginate:            4
-exclude: [README.md, Vagrantfile, .gitignore, .vagrant]
+exclude: [README.md, Vagrantfile, Gemfile, .gitignore, .vagrant]
 
 # About/contact
 author:
