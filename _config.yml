@@ -22,7 +22,7 @@ exclude: [README.md, Vagrantfile, Gemfile, .gitignore, .vagrant]
 
 # About/contact
 author:
-  name:              Adam Lee james
+  name:              Adam Lee James
   url:               https://keybase.io/mrwizrd
   email:             adam@adamjames.me
 
